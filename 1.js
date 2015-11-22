@@ -6,4 +6,4 @@ function f(console) {
         console.log(names[counter]);
     }
 }
-f(console)
+f(console);
